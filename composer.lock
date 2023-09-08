@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "05eaafd098b9b79f779fb9f9792ad3d7",
+    "content-hash": "f4bb6443f4017b671de2e6cd3c645361",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -6316,11 +6316,11 @@
         },
         {
             "name": "myopinion/myopinion",
-            "version": "1.0.1",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/mop",
-                "reference": "d8040786c8337e69bb924e4858d99e1f0e8439c2"
+                "reference": "c80b0e8ef0021b75178b53570dcbcd5dd44d5ed6"
             },
             "require": {
                 "dompdf/dompdf": "~2.0.0",
@@ -6493,7 +6493,7 @@
                 }
             ],
             "description": "My Opinion Digital Public Participation",
-            "time": "2023-09-08T17:46:51+00:00"
+            "time": "2023-09-08T18:56:55+00:00"
         },
         {
             "name": "pear/archive_tar",
@@ -12547,5 +12547,5 @@
     "platform-overrides": {
         "php": "7.3"
     },
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
