@@ -1,1 +1,49 @@
-# myopinion
+:uri-website: https://www.drupal.org/project/mop
+:uri-docs-getting-started: https://www.drupal.org/project/mop
+:uri-contributing: https://www.drupal.org/project/mop
+
+<p align="center">
+  <img width="400" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/my%20opinion.png?itok=vCLugRDf">
+  <h3 align="center">The participatory democracy drupal distribution</h3>
+  <p align="center">Free Open-Source participatory democracy, citizen participation and open government for cities and organizations. <a href="https://www.drupal.org/project/mop"><br>Explore the distribution </a></p>
+</p>
+
+
+= 💡 What is My Opinion?
+
+{uri-website}[MyOpinion] is a participatory democracy  and drupal distribution, it brings collaborative decision making and easy governance to communities and organisations of all sizes .
+With the tool, citizens can build proposals, from scratch or by branching from others and decision-makers build two way-conversations with their constituencies. 
+Debates take place with the platform rewarding the best arguments, filtering the noise and keeping the trolls at bay. Then people can vote for or against the proposal.
+
+'''
+
+= Table of Contents
+
+* <<getting-started,🚀 Getting started>>
+* <<contribute,🙌 Contribute>>
+
+'''
+
+== 🚀 Getting started
+
+TLDR: install composer  and run following command , enjoy.
+
+[source,console]
+----
+composer require myopinion/myopinion-demo
+----
+
+We have set up a guide on how to install, set up and upgrade MyOpinion.
+See the {uri-docs-getting-started}[Getting started guide].
+
+== 🙌 Contribute
+
+Anyone can participate in {uri-website}[MyOpinion], our own distance of MyOpinion for improving MyOpinion. The community is formed by people with different profiles and backgrounds.
+
+How can you contribute? There are many ways to do it, some more specific to the software -improving documentation or translations, reporting bugs or proposing improvements-, but you can also participate in discussions about the governance of the community (find out how we organize ourselves).
+
+Having a lively community is crucial to this project, so we encourage you to find out what is the best way for you to contribute to the commons! 🌱
+
+Read more about contributions in our {uri-contributing}[contribution guidelines].
+
+
