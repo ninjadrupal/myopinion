@@ -33,7 +33,7 @@ TLDR: install composer  and run following command , enjoy.
 
 [source,console]
 ----
-composer require myopinion/myopinion-demo
+composer create-project myopinion/myopinion-demo
 ----
 
 We have set up a guide on how to install, set up and upgrade MyOpinion.
