@@ -2,12 +2,15 @@
 :uri-docs-getting-started: https://www.drupal.org/project/mop
 :uri-contributing: https://www.drupal.org/project/mop
 
+++++
+
 <p align="center">
   <img width="400" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/my%20opinion.png?itok=vCLugRDf">
   <h3 align="center">The participatory democracy drupal distribution</h3>
   <p align="center">Free Open-Source participatory democracy, citizen participation and open government for cities and organizations. <a href="https://www.drupal.org/project/mop"><br>Explore the distribution </a></p>
 </p>
 
+++++
 
 = 💡 What is My Opinion?
 
