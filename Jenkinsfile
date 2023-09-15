@@ -1,5 +1,8 @@
 pipeline {
   agent any
+  enviroment{
+    SITE = "site58484"
+  }
   stages {
     stage('composer install') {
       steps {
