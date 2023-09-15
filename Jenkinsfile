@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('composer install') {
       steps {
-       echo "composer install "
+       echo "composer install ${SITE} "
       }
     }
 
